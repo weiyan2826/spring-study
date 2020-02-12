@@ -7,7 +7,7 @@
 
     <bean id="student" class="com.kuang.pojo.Student">
         <!--第一种，普通值注入，value-->
-        <property name="name" value="憨批"/>
+        <property name="name" value="spw"/>
         <!--第二种，Bean注入，ref-->
         <property name="address" ref="address"/>
         <!--数组注入-->
